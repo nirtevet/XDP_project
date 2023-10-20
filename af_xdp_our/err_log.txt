@@ -1,0 +1,9 @@
+AF_XDP RX:             0 pkts (         0 pps)           0 Kbytes (     0 Mbits/s) period:2.000294
+       TX:             0 pkts (         0 pps)           0 Kbytes (     0 Mbits/s) period:2.000294
+
+AF_XDP RX:             0 pkts (         0 pps)           0 Kbytes (     0 Mbits/s) period:2.000081
+       TX:             0 pkts (         0 pps)           0 Kbytes (     0 Mbits/s) period:2.000081
+
+AF_XDP RX:             0 pkts (         0 pps)           0 Kbytes (     0 Mbits/s) period:2.000101
+       TX:             0 pkts (         0 pps)           0 Kbytes (     0 Mbits/s) period:2.000101
+
